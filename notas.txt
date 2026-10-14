@@ -3,3 +3,4 @@ este es mi primer proyecto
 estoy aprendiendo a usar git
 estoy practicando ramas en git
 estoy repasando los comandos de git
+mi primer proyecto conectado con GitHub
