@@ -2,3 +2,4 @@ estoy aprendiendo git
 este es mi primer proyecto
 estoy aprendiendo a usar git
 estoy practicando ramas en git
+estoy repasando los comandos de git
