@@ -36,3 +36,11 @@ Este es mi primer proyecto de práctica.
 
 Aprender Python y crear mi primera aplicación web.
 
+
+
+\## Prueba de ramas
+
+
+
+Estoy aprendiendo a trabajar con ramas en Git.
+
