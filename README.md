@@ -28,3 +28,11 @@ Conectar un repositorio local con GitHub.
 
 Este es mi primer proyecto de práctica.
 
+
+
+\## Próximos objetivos
+
+
+
+Aprender Python y crear mi primera aplicación web.
+
