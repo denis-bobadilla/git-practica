@@ -14,3 +14,6 @@ Aprender Python y crear mi primera aplicación web.
 Estoy aprendiendo a trabajar con ramas en Git.
 
 Mi primera modificación desde Visual Studio Code.
+
+## Mi práctica con ramas
+Estoy aprendiendo a trabajar con ramas y commits en VS Code.
