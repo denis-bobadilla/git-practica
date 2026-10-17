@@ -20,3 +20,6 @@ Estoy aprendiendo a trabajar con ramas y commits en VS Code.
 
 ### Mi nueva función
 Estoy practicando cómo aislar cambios con ramas.
+
+### Función de prueba
+Esta función fue creada desde la rama conflicto-a.
