@@ -23,3 +23,4 @@ Estoy practicando cómo aislar cambios con ramas.
 
 ### Función de prueba
 Esta función fue creada desde la rama conflicto-a.
+Esta función fue creada desde la rama conflicto-b.
