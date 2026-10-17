@@ -17,3 +17,6 @@ Mi primera modificación desde Visual Studio Code.
 
 ## Mi práctica con ramas
 Estoy aprendiendo a trabajar con ramas y commits en VS Code.
+
+### Mi nueva función
+Estoy practicando cómo aislar cambios con ramas.
